@@ -1,0 +1,58 @@
+{
+  "Opportunities": [
+    {
+      "ID": "11111",
+      "OpportunityTypeID": "12345",
+      "OpportunityTypeName": "Refinance",
+      "PaymentSavings": 555,
+      "MIPmtSavings": 222,
+      "EstimatedLTV": 75,
+      "ConformingThreshold": 200000,
+      "EstimatedBalance": 444444,
+      "InterestRate": 3.875,
+      "Price": 101.625,
+      "EstimatedPayment": 2113.49,
+      "EstimatedMonthlyPaymentMI": null,
+      "UpdatedTimestamp": "2020-01-10T19:09:02.053",
+      "LoanTerm": 360,
+      "LoanTypeName": "Conforming",
+      "ProductName": "Conforming 30 Yr Fixed CORR"
+    },
+    {
+      "ID": "22222",
+      "OpportunityTypeID": "12345",
+      "OpportunityTypeName": "Refinance",
+      "PaymentSavings": 624,
+      "MIPmtSavings": 0,
+      "EstimatedLTV": 78,
+      "ConformingThreshold": 200000,
+      "EstimatedBalance": 432000,
+      "InterestRate": 3.850,
+      "Price": 100.625,
+      "EstimatedPayment": 2113.49,
+      "EstimatedMonthlyPaymentMI": null,
+      "UpdatedTimestamp": "2020-01-10T19:09:02.053",
+      "LoanTerm": 360,
+      "LoanTypeName": "Conforming",
+      "ProductName": "Conforming 30 Yr Fixed Refinance"
+    },
+    {
+      "ID": "33333",
+      "OpportunityTypeID": "12345",
+      "OpportunityTypeName": "Refinance",
+      "PaymentSavings": 555,
+      "MIPmtSavings": 222,
+      "EstimatedLTV": 75,
+      "ConformingThreshold": 200000,
+      "EstimatedBalance": 444444,
+      "InterestRate": 3.875,
+      "Price": 101.625,
+      "EstimatedPayment": 2113.49,
+      "EstimatedMonthlyPaymentMI": null,
+      "UpdatedTimestamp": "2020-01-10T19:09:02.053",
+      "LoanTerm": 360,
+      "LoanTypeName": "Conforming",
+      "ProductName": "Conforming 30 Yr Adjustable"
+    }
+  ]
+}
